@@ -75,7 +75,7 @@ msgstr ""
 #. 2.8/applet.js:530 2.8/applet.js:772 6.4/lib/s150PopupMenu.js:273
 #. 6.4/lib/s150PopupMenu.js:598 3.4/applet.js:535 3.4/applet.js:777
 msgid "Unknown Album"
-msgstr ""
+msgstr "Неизвестный альбом"
 
 #. 6.2/applet.js:1148 6.2/applet.js:1477 6.2/applet.js:1486 6.2/applet.js:1489
 #. 6.2/applet.js:1497 6.2/applet.js:2964 4.4/applet.js:593 4.4/applet.js:739
