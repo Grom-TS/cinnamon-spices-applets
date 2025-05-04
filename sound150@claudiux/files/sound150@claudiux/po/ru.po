@@ -426,13 +426,13 @@ msgstr ""
 #. 5.4->settings-schema.json->keepPlayerListOpen->description
 #. 6.4->settings-schema.json->keepPlayerListOpen->description
 msgid "Keep the player list open"
-msgstr ""
+msgstr "Держать список проигрывателей развёрнутым"
 
 #. 6.2->settings-schema.json->keepChoosePlayerOpen->description
 #. 5.4->settings-schema.json->keepChoosePlayerOpen->description
 #. 6.4->settings-schema.json->keepChoosePlayerOpen->description
 msgid "Keep the player controller selector open"
-msgstr ""
+msgstr "Держать список управления проигрывателями развёрнутым"
 
 #. 6.2->settings-schema.json->avoidTwice->description
 #. 5.4->settings-schema.json->avoidTwice->description
@@ -443,7 +443,7 @@ msgstr ""
 #. 6.2->settings-schema.json->seekerTooltipDelay->units
 #. 5.4->settings-schema.json->seekerTooltipDelay->units
 msgid "ms"
-msgstr ""
+msgstr "мс"
 
 #. 6.2->settings-schema.json->seekerTooltipDelay->description
 #. 5.4->settings-schema.json->seekerTooltipDelay->description
@@ -455,26 +455,26 @@ msgstr ""
 #. 4.6->settings-schema.json->keyOpen->description
 #. 6.4->settings-schema.json->keyOpen->description
 msgid "Show menu"
-msgstr ""
+msgstr "Показать меню"
 
 #. 6.2->settings-schema.json->keyOpen->tooltip
 #. 5.4->settings-schema.json->keyOpen->tooltip
 #. 4.6->settings-schema.json->keyOpen->tooltip
 #. 6.4->settings-schema.json->keyOpen->tooltip
 msgid "Set keybinding(s) to show the sound applet menu."
-msgstr ""
+msgstr "Установите сочетание клавиш для отображения меню звукового апплета."
 
 #. 6.2->settings-schema.json->keySwitchPlayer->description
 #. 5.4->settings-schema.json->keySwitchPlayer->description
 #. 6.4->settings-schema.json->keySwitchPlayer->description
 msgid "Switch to next player"
-msgstr ""
+msgstr "Переключиться на следующий проигрыватель"
 
 #. 6.2->settings-schema.json->keySwitchPlayer->tooltip
 #. 5.4->settings-schema.json->keySwitchPlayer->tooltip
 #. 6.4->settings-schema.json->keySwitchPlayer->tooltip
 msgid "Set keybinding(s) to switch to the next player if it exists."
-msgstr ""
+msgstr "Установите сочетание клавиш для переключения на следующий проигрыватель, если он существует."
 
 #. 6.2->settings-schema.json->showtrack->description
 #. 4.4->settings-schema.json->showtrack->description
@@ -484,7 +484,7 @@ msgstr ""
 #. 6.4->settings-schema.json->showtrack->description
 #. 3.4->settings-schema.json->showtrack->description
 msgid "Show song information on the panel"
-msgstr ""
+msgstr "Показать информацию о песне на панели"
 
 #. 6.2->settings-schema.json->truncatetext->units
 #. 4.4->settings-schema.json->truncatetext->units
@@ -594,7 +594,7 @@ msgstr ""
 #. 4.6->settings-schema.json->keepAlbumAspectRatio->description
 #. 6.4->settings-schema.json->keepAlbumAspectRatio->description
 msgid "Keep album art aspect ratio"
-msgstr ""
+msgstr "Сохранять соотношение сторон обложки альбома"
 
 #. 6.2->settings-schema.json->hideSystray->description
 #. 4.4->settings-schema.json->hideSystray->description
@@ -610,25 +610,25 @@ msgstr ""
 #. 5.4->settings-schema.json->tooltipShowVolume->description
 #. 6.4->settings-schema.json->tooltipShowVolume->description
 msgid "Show volume in tooltip"
-msgstr ""
+msgstr "Показать громкость в подсказке"
 
 #. 6.2->settings-schema.json->tooltipShowPlayer->description
 #. 5.4->settings-schema.json->tooltipShowPlayer->description
 #. 6.4->settings-schema.json->tooltipShowPlayer->description
 msgid "Show player in tooltip"
-msgstr ""
+msgstr "Показать плеер в подсказке"
 
 #. 6.2->settings-schema.json->tooltipShowArtistTitle->description
 #. 5.4->settings-schema.json->tooltipShowArtistTitle->description
 #. 6.4->settings-schema.json->tooltipShowArtistTitle->description
 msgid "Show song artist and title in tooltip"
-msgstr ""
+msgstr "Показывать исполнителя и название песни в подсказке"
 
 #. 6.2->settings-schema.json->showVolumeLevelNearIcon->description
 #. 5.4->settings-schema.json->showVolumeLevelNearIcon->description
 #. 6.4->settings-schema.json->showVolumeLevelNearIcon->description
 msgid "Display volume level near icon"
-msgstr ""
+msgstr "Отображение уровня громкости рядом со значком"
 
 #. 6.2->settings-schema.json->showMicMutedOnIcon->description
 #. 5.4->settings-schema.json->showMicMutedOnIcon->description
@@ -660,12 +660,12 @@ msgstr ""
 #. 6.4->settings-schema.json->maxVolume->description
 #, fuzzy
 msgid "Maximum volume (%)"
-msgstr "Максимальный регулятор громкости"
+msgstr "Максимальная громкость (%)"
 
 #. 6.2->settings-schema.json->startupVolume->description
 #. 6.4->settings-schema.json->startupVolume->description
 msgid "Volume at start-up (%)"
-msgstr ""
+msgstr "Громкость при запуске (%)"
 
 #. 6.2->settings-schema.json->startupVolume->tooltip
 #. 6.4->settings-schema.json->startupVolume->tooltip
@@ -772,7 +772,7 @@ msgstr ""
 #. 6.4->settings-schema.json->stepVolume->tooltip
 #. 3.4->settings-schema.json->stepVolume->tooltip
 msgid "% of nominal volume"
-msgstr "% от номинального объема"
+msgstr "% от номинальной громкости"
 
 #. 6.2->settings-schema.json->stepVolume->description
 #. 4.4->settings-schema.json->stepVolume->description
@@ -823,25 +823,25 @@ msgstr "Изменить цвет значка громкости"
 
 #. 6.2->settings-schema.json->color0_100->description
 msgid "Icon color: 0%-100%"
-msgstr ""
+msgstr "Цвет значка: 0%-100%"
 
 #. 6.2->settings-schema.json->color101_115->description
 #. 5.4->settings-schema.json->color101_115->description
 #. 6.4->settings-schema.json->color101_115->description
 msgid "Icon color: 101%-115%"
-msgstr ""
+msgstr "Цвет значка: 101%-115%"
 
 #. 6.2->settings-schema.json->color116_130->description
 #. 5.4->settings-schema.json->color116_130->description
 #. 6.4->settings-schema.json->color116_130->description
 msgid "Icon color: 116%-130%"
-msgstr ""
+msgstr "Цвет значка: 116%-130%"
 
 #. 6.2->settings-schema.json->color131_150->description
 #. 5.4->settings-schema.json->color131_150->description
 #. 6.4->settings-schema.json->color131_150->description
 msgid "Icon color: 131%-150%"
-msgstr ""
+msgstr "Цвет значка: 131%-150%"
 
 #. 6.2->settings-schema.json->resetColorsButton->description
 #. 5.4->settings-schema.json->resetColorsButton->description
@@ -878,22 +878,22 @@ msgstr ""
 #. 6.2->settings-schema.json->showMediaKeysOSD->options
 #. 5.4->settings-schema.json->showMediaKeysOSD->options
 msgid "disabled"
-msgstr ""
+msgstr "отключено"
 
 #. 6.2->settings-schema.json->showMediaKeysOSD->options
 #. 5.4->settings-schema.json->showMediaKeysOSD->options
 msgid "small"
-msgstr ""
+msgstr "маленький"
 
 #. 6.2->settings-schema.json->showMediaKeysOSD->options
 #. 5.4->settings-schema.json->showMediaKeysOSD->options
 msgid "medium"
-msgstr ""
+msgstr "средний"
 
 #. 6.2->settings-schema.json->showMediaKeysOSD->options
 #. 5.4->settings-schema.json->showMediaKeysOSD->options
 msgid "large"
-msgstr ""
+msgstr "большой"
 
 #. 6.2->settings-schema.json->showMediaKeysOSD->description
 #. 5.4->settings-schema.json->showMediaKeysOSD->description
@@ -904,13 +904,13 @@ msgstr ""
 #. 5.4->settings-schema.json->showOSDonStartup->description
 #. 6.4->settings-schema.json->showOSDonStartup->description
 msgid "Show volume level in OSD on startup"
-msgstr ""
+msgstr "Показывать уровень громкости в экранном меню при запуске"
 
 #. 6.2->settings-schema.json->volumeSoundFile->description
 #. 5.4->settings-schema.json->volumeSoundFile->description
 #. 6.4->settings-schema.json->volumeSoundFile->description
 msgid "Which sound to play when the volume is changed"
-msgstr ""
+msgstr "Какой звук воспроизводить при изменении громкости"
 
 #. 6.2->settings-schema.json->volumeSoundEnabled->description
 #. 5.4->settings-schema.json->volumeSoundEnabled->description
